@@ -85,10 +85,12 @@
         android:id="@+id/delUserBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="50dp"
-        android:background="#03A9F4"
-        android:textColor="#FFFFFF"
-        android:text="удалить" />
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="100dp"
+        android:background="#F40357"
+        android:text="удалить"
+        android:textColor="#FFFFFF" />
 
 </LinearLayout>
 
